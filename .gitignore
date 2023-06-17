@@ -1,0 +1,17 @@
+pycache
+.idea
+*.pyc
+*.db
+vscode
+/local/*
+/locale/*
+cache
+/media/*
+venv
+pgdata/
+pgsql/
+VENV/
+ENV/
+env/
+/temp/
+/tmp/
